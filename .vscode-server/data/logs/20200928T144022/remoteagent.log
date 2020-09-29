@@ -1,0 +1,22 @@
+[2020-09-28 14:40:22.336] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-09-28 14:40:22.336] [remoteagent] [info] Extension host agent started.
+[2020-09-28 14:40:22.540] [remoteagent] [info] [::ffff:127.0.0.1][50f306cd][ManagementConnection] New connection established.
+[2020-09-28 14:40:22.546] [remoteagent] [info] [::ffff:127.0.0.1][b10b0b39][ExtensionHostConnection] New connection established.
+[2020-09-28 14:40:22.990] [remoteagent] [info] [::ffff:127.0.0.1][b10b0b39][ExtensionHostConnection] <50> Launched Extension Host Process.
+[2020-09-28 14:41:24.551] [remoteagent] [info] Installing extension: slevesque.vscode-zipexplorer
+[2020-09-28 14:41:30.810] [remoteagent] [info] Downloaded extension: slevesque.vscode-zipexplorer /home/edunush/.vscode-server/data/CachedExtensionVSIXs/slevesque.vscode-zipexplorer-0.3.1
+[2020-09-28 14:41:31.498] [remoteagent] [info] Extracted extension to /home/edunush/.vscode-server/extensions/.slevesque.vscode-zipexplorer-0.3.1: slevesque.vscode-zipexplorer
+[2020-09-28 14:41:31.506] [remoteagent] [info] Renamed to /home/edunush/.vscode-server/extensions/slevesque.vscode-zipexplorer-0.3.1
+[2020-09-28 14:41:31.518] [remoteagent] [info] Installation completed. slevesque.vscode-zipexplorer
+[2020-09-28 14:41:31.527] [remoteagent] [info] Extensions installed successfully: slevesque.vscode-zipexplorer
+[2020-09-28 14:46:32.704] [remoteagent] [info] [::ffff:127.0.0.1][50f306cd][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-09-28 14:46:33.825] [remoteagent] [info] [::ffff:127.0.0.1][b10b0b39][ExtensionHostConnection] <50> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,17 @@
+header {
+    text-align: center;
+    color: purple;
+}
+
+
+.font-size {
+  font-size: 16px;
+  text-align: left;
+}
+.image{
+  box-sizing: border-box;
+}
+
+.background {
+  color: rgb(123, 66, 230);
+}

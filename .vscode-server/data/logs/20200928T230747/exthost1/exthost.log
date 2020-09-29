@@ -1,0 +1,24 @@
+[2020-09-28 23:07:50.110] [exthost] [info] extension host started
+[2020-09-28 23:07:50.323] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onLanguage:html"}
+[2020-09-28 23:07:50.323] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/emmet/dist/node/emmetNodeMain
+[2020-09-28 23:07:50.391] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2020-09-28 23:07:50.391] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/html-language-features/client/dist/node/htmlClientMain
+[2020-09-28 23:07:50.460] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-09-28 23:07:50.460] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/debug-auto-launch/dist/extension
+[2020-09-28 23:07:50.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-28 23:07:50.468] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/git/dist/main
+[2020-09-28 23:07:50.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-09-28 23:07:50.553] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/merge-conflict/dist/mergeConflictMain
+[2020-09-28 23:07:50.560] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-09-28 23:07:50.560] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/search-result/dist/extension.js
+[2020-09-28 23:07:50.564] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-09-28 23:07:50.564] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/extensions/eamodio.gitlens-10.2.2/dist/extension
+[2020-09-28 23:07:50.706] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-09-28 23:07:50.706] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-09-28 23:07:51.963] [exthost] [info] Extension 'eamodio.gitlens' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
+[2020-09-28 23:07:51.987] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2020-09-28 23:07:51.988] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/github/dist/extension.js
+[2020-09-28 23:07:52.122] [exthost] [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github {"startup":false,"extensionId":{"value":"GitHub.vscode-pull-request-github","_lower":"github.vscode-pull-request-github"},"activationEvent":"onStartupFinished"}
+[2020-09-28 23:07:52.123] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/extensions/github.vscode-pull-request-github-0.20.0/media/extension
+[2020-09-28 23:07:52.385] [exthost] [info] eager extensions activated
+[2020-09-28 23:07:52.785] [exthost] [info] Extension 'GitHub.vscode-pull-request-github' uses a document selector without scheme. Learn more about this: https://go.microsoft.com/fwlink/?linkid=872305
