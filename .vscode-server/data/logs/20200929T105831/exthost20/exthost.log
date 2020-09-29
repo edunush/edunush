@@ -39,3 +39,4 @@
 [2020-09-29 12:08:22.205] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/extension-editing/dist/extensionEditingMain
 [2020-09-29 12:08:22.254] [exthost] [info] ExtensionService#_doActivateExtension vscode.markdown-language-features {"startup":false,"extensionId":{"value":"vscode.markdown-language-features","_lower":"vscode.markdown-language-features"},"activationEvent":"onLanguage:markdown"}
 [2020-09-29 12:08:22.254] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/edunush/.vscode-server/bin/e5e9e69aed6e1984f7499b7af85b3d05f9a6883a/extensions/markdown-language-features/dist/extension
+[2020-09-29 12:30:48.687] [exthost] [warning] TextEditor is closed/disposed

@@ -1928,3 +1928,871 @@ fatal: no upstream configured for branch 'master'
 > git remote --verbose
 > git config --get commit.template
 > git rev-list --count index.. -- /home/edunush/index.html
+fatal: bad revision 'index..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/edunush/index.html
+> git rev-list --count index.. -- /home/edunush/index.html
+fatal: bad revision 'index..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/edunush/index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git cat-file -s d4b543837c9a5cc746204f35a1af3c835bb346ce
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count index.. -- /home/edunush/index.html
+fatal: bad revision 'index..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count index.. -- /home/edunush/index.html
+fatal: bad revision 'index..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count index.. -- /home/edunush/index.html
+fatal: bad revision 'index..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count index.. -- /home/edunush/index.html
+fatal: bad revision 'index..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/edunush/index.html
+> git rev-list --count index.. -- /home/edunush/index.html
+fatal: bad revision 'index..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/edunush/index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git cat-file -s d4b543837c9a5cc746204f35a1af3c835bb346ce
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git rev-list --count index.. -- /home/edunush/index.html
+fatal: bad revision 'index..'
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git cat-file -s d4b543837c9a5cc746204f35a1af3c835bb346ce
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git ls-files --stage -- /home/edunush/index.html
+> git cat-file -s d4b543837c9a5cc746204f35a1af3c835bb346ce
+> git show --textconv :index.html
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git cat-file -s d4b543837c9a5cc746204f35a1af3c835bb346ce
+> git show --textconv :index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/css/styles.css
+> git show --textconv :css/styles.css
+> git ls-files --stage -- /home/edunush/css/styles.css
+> git cat-file -s 531d275e2f98fb1f00eafa9ef03ee35bf81a6f8c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/index.html
+> git show --textconv :index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git cat-file -s d4b543837c9a5cc746204f35a1af3c835bb346ce
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/css/styles.css
+> git show --textconv :css/styles.css
+> git ls-files --stage -- /home/edunush/css/styles.css
+> git cat-file -s 531d275e2f98fb1f00eafa9ef03ee35bf81a6f8c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git fetch
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/edunush/css/styles.css
+> git cat-file -s 531d275e2f98fb1f00eafa9ef03ee35bf81a6f8c
+> git show --textconv :css/styles.css
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/index.html
+> git show --textconv :index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git cat-file -s d4b543837c9a5cc746204f35a1af3c835bb346ce
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/css/styles.css
+> git show --textconv :css/styles.css
+> git ls-files --stage -- /home/edunush/css/styles.css
+> git cat-file -s 531d275e2f98fb1f00eafa9ef03ee35bf81a6f8c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/css/styles.css
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/styles.css
