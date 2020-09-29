@@ -138,3 +138,13 @@
 [2020-09-29 11:43:01.874] [remoteagent] [info] [::ffff:127.0.0.1][7fa96a72][ManagementConnection] New connection established.
 [2020-09-29 11:43:01.875] [remoteagent] [info] [::ffff:127.0.0.1][6aee3792][ExtensionHostConnection] New connection established.
 [2020-09-29 11:43:01.924] [remoteagent] [info] [::ffff:127.0.0.1][6aee3792][ExtensionHostConnection] <1482> Launched Extension Host Process.
+[2020-09-29 12:01:30.490] [remoteagent] [info] [::ffff:127.0.0.1][7fa96a72][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-09-29 12:01:31.601] [remoteagent] [info] [::ffff:127.0.0.1][6aee3792][ExtensionHostConnection] <1482> Extension Host Process exited with code: 0, signal: null.
+[2020-09-29 12:01:32.849] [remoteagent] [info] [::ffff:127.0.0.1][208a6aa8][ManagementConnection] New connection established.
+[2020-09-29 12:01:32.849] [remoteagent] [info] [::ffff:127.0.0.1][60fdb4a4][ExtensionHostConnection] New connection established.
+[2020-09-29 12:01:32.876] [remoteagent] [info] [::ffff:127.0.0.1][60fdb4a4][ExtensionHostConnection] <1660> Launched Extension Host Process.
+[2020-09-29 12:01:49.285] [remoteagent] [info] [::ffff:127.0.0.1][208a6aa8][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-09-29 12:01:50.390] [remoteagent] [info] [::ffff:127.0.0.1][60fdb4a4][ExtensionHostConnection] <1660> Extension Host Process exited with code: 0, signal: null.
+[2020-09-29 12:01:51.710] [remoteagent] [info] [::ffff:127.0.0.1][8b924a80][ManagementConnection] New connection established.
+[2020-09-29 12:01:51.711] [remoteagent] [info] [::ffff:127.0.0.1][ceddd9a2][ExtensionHostConnection] New connection established.
+[2020-09-29 12:01:51.741] [remoteagent] [info] [::ffff:127.0.0.1][ceddd9a2][ExtensionHostConnection] <1796> Launched Extension Host Process.
