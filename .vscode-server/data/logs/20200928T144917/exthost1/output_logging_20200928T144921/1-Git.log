@@ -1,15 +1,0 @@
-Looking for git in: git
-Using git 2.25.1 from git
-> git rev-parse --git-dir
-Open repository: /home/edunush
-> git status -z -u
-> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/portfolio/index.html
-> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/edunush/portfolio/index.html
-fatal: your current branch 'master' does not have any commits yet
-fatal: your current branch 'master' does not have any commits yet
-> git check-ignore -v -z --stdin
-> git clone https://github.com/edunush/nushedu c:/git hub/nushedu --progress
-Cloning into 'c:/git hub/nushedu'...
-remote: Enumerating objects: 3, done.        
-remote: Counting objects:  33% (1/3)        remote: Counting objects:  66% (2/3)        remote: Counting objects: 100% (3/3)        remote: Counting objects: 100% (3/3), done.        
-remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0

@@ -1,0 +1,473 @@
+Looking for git in: git
+Using git 2.25.1 from git
+> git rev-parse --git-dir
+Open repository: /home/edunush
+> git fetch
+> git status -z -u
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/edunush/index.html
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --local branch.gh-pages.github-pr-owner-number
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git config --local branch.gh-pages.github-pr-owner-number
+> git cat-file -s fb4edc5f774008d449c957a8778d98ec8caeec1a
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git cat-file -s fb4edc5f774008d449c957a8778d98ec8caeec1a
+> git show --textconv :index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/nushedu/bootstrap-4.0.0 (1).zip
+> git rev-parse --symbolic-full-name gh-pages@{u}
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n41 -- /home/edunush/nushedu/bootstrap-4.0.0 (1).zip
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0 (1).zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0 (1).zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0 (1).zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0 (1).zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0 (1).zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0 (1).zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git check-ignore -v -z --stdin
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git fetch
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/nushedu/bootstrap-4.0.0.zip
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/index.html
+> git show --textconv :index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git cat-file -s fb4edc5f774008d449c957a8778d98ec8caeec1a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/.gitconfig
+> git show --textconv :.gitconfig
+> git ls-files --stage -- /home/edunush/.gitconfig
+> git cat-file -s c84e3244b5a2bd575b2d7bffe8dac090969199ac
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/.gitconfig
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/.gitconfig
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/.bash_history
+> git show --textconv :.bash_history
+> git ls-files --stage -- /home/edunush/.bash_history
+> git cat-file -s 2669aedbe09e03bf54d8ec7790cca184b11b5216
+> git status -z -u
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/.motd_shown
+> git show --textconv :.motd_shown
+> git ls-files --stage -- /home/edunush/.motd_shown
+> git symbolic-ref --short HEAD
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/.motd_shown
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/.motd_shown
+> git status -z -u
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/index.html
+> git show --textconv :index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git symbolic-ref --short HEAD
+> git cat-file -s fb4edc5f774008d449c957a8778d98ec8caeec1a
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/.landscape/sysinfo.log
+> git show --textconv :.landscape/sysinfo.log
+> git ls-files --stage -- /home/edunush/.landscape/sysinfo.log
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/.landscape/sysinfo.log
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/.landscape/sysinfo.log
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/.landscape/sysinfo.log
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/.landscape/sysinfo.log
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/index.html
+> git show --textconv :index.html
+> git ls-files --stage -- /home/edunush/index.html
+> git cat-file -s fb4edc5f774008d449c957a8778d98ec8caeec1a
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse gh-pages
+> git rev-parse --symbolic-full-name gh-pages@{u}
+fatal: no upstream configured for branch 'gh-pages'
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname)
+> git remote --verbose
+> git config --get commit.template
+> git rev-list --count 23ca486546ddfe4a3c36f97eb491915ac26c658c.. -- /home/edunush/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n4 -- /home/edunush/index.html
+> git status -z -u
