@@ -48,3 +48,11 @@ git remote -v
 git add .
 git commit -m " java script on projo "
 git push origin gh-pages
+git push origin master
+git status
+git add .
+git commit -m "new changes to make"
+git push origin gh-pages
+clear
+git push origin master
+git push origin master
