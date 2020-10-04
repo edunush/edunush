@@ -56,3 +56,13 @@ git push origin gh-pages
 clear
 git push origin master
 git push origin master
+git add .
+git commit -m "final commit"
+git remote add origin https://github.com/edunush/Akan-Names.git
+git status
+git push origin master
+git remote -v
+git pull
+git fetch
+git status
+git push origin master
