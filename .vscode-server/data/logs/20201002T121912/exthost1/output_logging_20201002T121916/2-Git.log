@@ -23,3 +23,7 @@ Open repository: /home/edunush
 > git rev-list --count d41e96627631252b9219827d97b76b2db83b3b42.. -- /home/edunush/.bash_history
 > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n6 -- /home/edunush/.bash_history
 > git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/edunush/css/js/index.html
+> git rev-list --count 346196417cf6535f12a68a390210a08894cb09a0.. -- /home/edunush/css/js/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/js/index.html
+> git rev-list --count 346196417cf6535f12a68a390210a08894cb09a0.. -- /home/edunush/css/js/index.html
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n2 -- /home/edunush/css/js/index.html

@@ -36,3 +36,15 @@ git add .
 git commit -m "push to gh-pages branch."
 git push origin gh-pages
 git add .
+git add .
+git add .
+git commit -m " java script instart "
+git push origin gh-pages
+git add . 
+git commit -m
+git init
+git remot -v
+git remote -v
+git add .
+git commit -m " java script on projo "
+git push origin gh-pages
